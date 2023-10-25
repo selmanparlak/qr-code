@@ -1,2 +1,8 @@
-# qr-code
-QR Code Generator
+# Installation
+```
+npm i inquirer qr-image
+```
+# Running 
+```
+node index.js
+```
