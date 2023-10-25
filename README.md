@@ -1,4 +1,4 @@
-# Installation
+# Installation Package
 ```
 npm i inquirer qr-image
 ```
